@@ -8,55 +8,55 @@ redirect_from:
 ---
 Spring 2025
 -----
-Math 210C (A)
+Math 210C (Algebra)
 
-Math 225C (A+)
+Math 225C (Algebraic Topology)
 
-Math 245C (A+)
+Math 245C (Real Analysis)
 
 Winter 2025
 -----
-Math 210B (A+)
+Math 210B (Algebra)
 
-Math 245B (A)
+Math 245B (Real Analysis)
 
 Fall 2024
 -----
-Math 210A (A)
+Math 210A (Algebra)
 
-Math 245A (A-)
+Math 245A (Real Analysis)
 
 Spring 2024
 -----
-Math 110C (A+)
+Math 110C (Algebra)
 
-Math 131BH (A)
+Math 131BH (Real Analysis)
 
-Math 171 (A)
+Math 171 (Stochastic Processes)
 
 Winter 2024
 -----
-Math 110BH (A+)
+Math 110BH (Algebra)
 
-Math 115B (A)
+Math 115B (Linear Algebra)
 
-Math 120A (A)
+Math 120A (Differential Geometry)
 
-Math 121 (A+)
+Math 121 (Topology)
 
 Fall 2023
 -----
-Math 110AH (A+)
+Math 110AH (Algebra)
 
-Math 135 (A)
+Math 135 (Ordinary Differential Equations)
 
-Math 170A (A)
+Math 170A (Probability Theory)
 
 Spring 2023
 -----
-Math 115AH (A)
+Math 115AH (Linear Algebra)
 
 Winter 2023
 -----
-Math 131AH (A)
+Math 131AH (Real Analysis)
 
