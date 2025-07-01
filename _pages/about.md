@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Curriculum Vitae"
+title: "Research Experience"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Research Experience
-======
+- UCLA Computational and Applied Mathematics REU (Summer 2025)
+  - Currently developing procedures to unmix spectroscopic data into pure constituent compounds using machine learning algorithms
+- Directed Reading Program at UCLA (Fall 2024)
+  - Studied various topics in algebraic topology under the guidance of a graduate mentor
+  - Presented a topological proof of the Nielsen-Schreier Theorem in group theory which states that every subgroup of a free group remains free
+- Park City Mathematics Institute Undergraduate Summer School (Summer 2024)
+  - Participated in an algebraic topology lecture series that developed tools to compute higher homotopy groups
+  - Presented a homological algebraic proof of a classification theorem of crystallographic space groups (a generalization of wallpaper groups to n dimensions) to the PCMI mathematics colloquium
+- Polymath Junior REU (Summer 2024)
+  - Proved novel results about the classification of k-covers in the game Projective Set using the Ramanujan-Nagell equation
 
 
 Coursework
