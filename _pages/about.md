@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Research Experience
+======
+
+
+Coursework
+======
+
 Spring 2025
 -----
 Math 210C (Algebra)
