@@ -1,77 +1,81 @@
 ---
 permalink: /
-title: "Research Experience"
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My name is Adrian Derderian, and I am an incoming senior undergraduate at UCLA whose academic interests lie in pure mathematics. As a student in the Departmental Scholars Program, I am concurrently pursuing B.S. and M.A. degrees with an expected graduation date of Spring 2026. Afterward, I intend to pursue graduate studies in pure mathematics.
+
+Research Experience
+=====
 - UCLA Computational and Applied Mathematics REU (Summer 2025)
-  - Currently developing procedures to unmix spectroscopic data into pure constituent compounds using machine learning algorithms
+  - Currently developing procedures to unmix spectroscopic frequency comb data into pure constituent compounds using machine learning algorithms
 - Directed Reading Program at UCLA (Fall 2024)
   - Studied various topics in algebraic topology under the guidance of a graduate mentor
   - Presented a topological proof of the Nielsen-Schreier Theorem in group theory which states that every subgroup of a free group remains free
 - Park City Mathematics Institute Undergraduate Summer School (Summer 2024)
   - Participated in an algebraic topology lecture series that developed tools to compute higher homotopy groups
-  - Presented a homological algebraic proof of a classification theorem of crystallographic space groups (a generalization of wallpaper groups to n dimensions) to the PCMI mathematics colloquium
+  - Presented to the PCMI mathematics colloquium a homological algebraic proof of a classification theorem for crystallographic space groups (a generalization of wallpaper groups to n dimensions)
 - Polymath Junior REU (Summer 2024)
-  - Proved novel results about the classification of k-covers in the game Projective Set using the Ramanujan-Nagell equation
+  - Proved novel results about the classification of k-covers in the game Projective Set using known solutions to the Ramanujan-Nagell equation
 
 
-Coursework
+Mathematics Coursework
 ======
 
 Spring 2025
 -----
-Math 210C (Algebra)
+Math 210C: Algebra (A)
 
-Math 225C (Algebraic Topology)
+Math 225C: Algebraic Topology (A+)
 
-Math 245C (Real Analysis)
+Math 245C: Real Analysis (A+)
 
 Winter 2025
 -----
-Math 210B (Algebra)
+Math 210B: Algebra (A+)
 
-Math 245B (Real Analysis)
+Math 245B: Real Analysis (A)
 
 Fall 2024
 -----
-Math 210A (Algebra)
+Math 210A: Algebra (A)
 
-Math 245A (Real Analysis)
+Math 245A: Real Analysis (A-)
 
 Spring 2024
 -----
-Math 110C (Algebra)
+Math 110C: Algebra (A+)
 
-Math 131BH (Real Analysis)
+Math 131BH: Real Analysis (A)
 
-Math 171 (Stochastic Processes)
+Math 171: Stochastic Processes (A)
 
 Winter 2024
 -----
-Math 110BH (Algebra)
+Math 110BH: Algebra (A+)
 
-Math 115B (Linear Algebra)
+Math 115B: Linear Algebra (A)
 
-Math 120A (Differential Geometry)
+Math 120A Differential Geometry (A)
 
-Math 121 (Topology)
+Math 121 Topology (A+)
 
 Fall 2023
 -----
-Math 110AH (Algebra)
+Math 110AH Algebra (A+)
 
-Math 135 (Ordinary Differential Equations)
+Math 135 Ordinary Differential Equations (A)
 
-Math 170A (Probability Theory)
+Math 170A Probability Theory (A)
 
 Spring 2023
 -----
-Math 115AH (Linear Algebra)
+Math 115AH Linear Algebra (A)
 
 Winter 2023
 -----
-Math 131AH (Real Analysis)
+Math 131AH Real Analysis (A)
 
