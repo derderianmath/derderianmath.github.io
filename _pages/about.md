@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Adrian Derderian, and I am an incoming senior at UCLA pursuing both B.S. and an M.A. degrees in pure math through the Departmental Scholars Program. My academic interests lie primarily in algebra and proof formalization. After my expected graduation in Spring 2026, I am excited to continue exploring vast universe of mathematics in graduate school.
+Hi! My name is Adrian Derderian, and I am an incoming senior at UCLA pursuing both B.S. and M.A. degrees in pure math through the Departmental Scholars Program. My academic interests lie primarily in algebra and proof formalization. After my expected graduation in Spring 2026, I am excited to continue exploring vast universe of mathematics in graduate school.
 
 Research Experience
 =====
