@@ -82,4 +82,5 @@ Math 131AH Real Analysis (A)
 Examinations and Credentials
 =====
 Passed the Basic Examination (Spring 2025)
+
 Earned the Oracle Certified Associate Java SE Credential (2018)
