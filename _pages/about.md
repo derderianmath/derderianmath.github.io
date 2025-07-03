@@ -8,6 +8,8 @@ redirect_from:
 ---
 Hi! My name is Adrian Derderian, and I am an incoming senior at UCLA pursuing both B.S. and M.A. degrees in pure math through the Departmental Scholars Program. My academic interests lie primarily in algebra and proof formalization. After my expected graduation in Spring 2026, I am excited to continue exploring vast universe of mathematics in graduate school.
 
+
+
 Research Experience
 =====
 - UCLA Computational and Applied Mathematics REU (Summer 2025)
@@ -20,6 +22,7 @@ Research Experience
   - Presented to the PCMI mathematics colloquium a homological algebraic proof of a classification theorem for crystallographic space groups (a generalization of wallpaper groups to n dimensions)
 - Polymath Junior REU (Summer 2024)
   - Proved novel results about the classification of k-covers in the game Projective Set using known solutions to the Ramanujan-Nagell equation
+
 
 
 Mathematics Coursework
@@ -78,6 +81,8 @@ Math 115AH Linear Algebra (A)
 Winter 2023
 -----
 Math 131AH Real Analysis (A)
+
+
 
 Examinations and Credentials
 =====
